@@ -13,4 +13,4 @@ collection = db["NetworkData"]
 df = pd.read_csv("Network_Data/dataset_full.csv")
 data = df.to_dict(orient="records")
 collection.insert_many(data)
-print(f"✅ Inserted {len(data)} records into MongoDB!")
+print(f" Inserted {len(data)} records into MongoDB!")
