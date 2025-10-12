@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/sumit/Documents/NetworkSecuirty/mlruns/0/6087e1cd1a1c42fb928b1e9f3e762c0e/artifacts
+end_time: 1759920528671
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6087e1cd1a1c42fb928b1e9f3e762c0e
+run_name: rogue-fly-696
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759920523614
+status: 3
+tags: []
+user_id: sumit

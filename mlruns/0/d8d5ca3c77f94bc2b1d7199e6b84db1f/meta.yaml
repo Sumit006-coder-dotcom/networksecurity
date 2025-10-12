@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/sumit/Documents/NetworkSecuirty/mlruns/0/d8d5ca3c77f94bc2b1d7199e6b84db1f/artifacts
+end_time: 1759933767958
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d8d5ca3c77f94bc2b1d7199e6b84db1f
+run_name: crawling-ram-409
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759933763729
+status: 3
+tags: []
+user_id: sumit

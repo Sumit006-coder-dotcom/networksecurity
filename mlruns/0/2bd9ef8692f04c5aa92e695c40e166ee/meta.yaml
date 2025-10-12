@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/sumit/Documents/NetworkSecuirty/mlruns/0/2bd9ef8692f04c5aa92e695c40e166ee/artifacts
+end_time: 1760252359007
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2bd9ef8692f04c5aa92e695c40e166ee
+run_name: amazing-stoat-33
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760252353370
+status: 3
+tags: []
+user_id: sumit

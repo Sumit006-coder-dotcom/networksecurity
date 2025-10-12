@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/sumit/Documents/NetworkSecuirty/mlruns/0/models/m-ba12c0997be34fbb96cfff83afb63b2a/artifacts
+creation_timestamp: 1759919691604
+experiment_id: '0'
+last_updated_timestamp: 1759919695165
+model_id: m-ba12c0997be34fbb96cfff83afb63b2a
+model_type: null
+name: model
+source_run_id: f8ab5f9e94814752b84cf6afdf0ec824
+status: 2
+status_message: null

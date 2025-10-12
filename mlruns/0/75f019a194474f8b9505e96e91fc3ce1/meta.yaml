@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/sumit/Documents/NetworkSecuirty/mlruns/0/75f019a194474f8b9505e96e91fc3ce1/artifacts
+end_time: 1759917602155
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 75f019a194474f8b9505e96e91fc3ce1
+run_name: resilient-mare-230
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759917598702
+status: 3
+tags: []
+user_id: sumit

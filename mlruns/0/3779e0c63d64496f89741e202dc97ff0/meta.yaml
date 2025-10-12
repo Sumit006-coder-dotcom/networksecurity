@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/sumit/Documents/NetworkSecuirty/mlruns/0/3779e0c63d64496f89741e202dc97ff0/artifacts
+end_time: 1760252363464
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3779e0c63d64496f89741e202dc97ff0
+run_name: beautiful-crow-976
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760252359098
+status: 3
+tags: []
+user_id: sumit

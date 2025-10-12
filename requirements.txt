@@ -10,5 +10,7 @@ pyyaml
 watchdog
 dill
 mlflow
+fastapi
+uvicorn
 
 #-e .

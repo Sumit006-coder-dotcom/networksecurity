@@ -1,0 +1,22 @@
+artifact_path: file:///C:/Users/sumit/Documents/NetworkSecuirty/mlruns/0/models/m-ef47f797518740e7a4157b2ce3d2d704/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.13.0
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.2
+mlflow_version: 3.4.0
+model_id: m-ef47f797518740e7a4157b2ce3d2d704
+model_size_bytes: 12274176
+model_uuid: m-ef47f797518740e7a4157b2ce3d2d704
+prompts: null
+run_id: f5d02869e69c423ea6b5773f09a7d04f
+utc_time_created: '2025-10-08 10:19:55.005442'

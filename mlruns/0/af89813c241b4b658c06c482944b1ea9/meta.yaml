@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/sumit/Documents/NetworkSecuirty/mlruns/0/af89813c241b4b658c06c482944b1ea9/artifacts
+end_time: 1759919691471
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: af89813c241b4b658c06c482944b1ea9
+run_name: crawling-shrimp-38
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759919686757
+status: 3
+tags: []
+user_id: sumit

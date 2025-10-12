@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/sumit/Documents/NetworkSecuirty/mlruns/0/6a044d9b9fe74ae79f693eb20874b6ae/artifacts
+end_time: 1759921708278
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6a044d9b9fe74ae79f693eb20874b6ae
+run_name: kindly-moth-469
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759921703622
+status: 3
+tags: []
+user_id: sumit

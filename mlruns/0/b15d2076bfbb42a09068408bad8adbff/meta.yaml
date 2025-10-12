@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/sumit/Documents/NetworkSecuirty/mlruns/0/b15d2076bfbb42a09068408bad8adbff/artifacts
+end_time: 1759921711956
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b15d2076bfbb42a09068408bad8adbff
+run_name: fun-stag-843
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759921708360
+status: 3
+tags: []
+user_id: sumit
